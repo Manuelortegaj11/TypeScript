@@ -1,6 +1,6 @@
 # Programación con TypeScript
 
-Mis apuntes y código de la ruta **Programación con TypeScript**.
+Mis apuntes y código de la ruta **Programación con TypeScript**: desde la configuración del proyecto y el compilador hasta la programación orientada a objetos, el asincronismo y los genéricos, actualizados a TypeScript 7.
 
 ## Cursos (3)
 
