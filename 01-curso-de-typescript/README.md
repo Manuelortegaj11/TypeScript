@@ -12,12 +12,12 @@ Aprende TypeScript, el superset de Microsoft para agregar tipado fuerte a tu có
 
 ### 01 · Introducción a TypeScript
 
-- [ ] [01 · Por qué usar TypeScript](./01-introduccion-a-typescript/01-por-que-usar-typescript/notas.md) — 07:25 min
-- [ ] [02 · TypeScript vs. JavaScript](./01-introduccion-a-typescript/02-typescript-vs-javascript/notas.md) — 05:45 min
-- [ ] [03 · Configurando nuestro proyecto](./01-introduccion-a-typescript/03-configurando-nuestro-proyecto/notas.md) — 05:51 min
-- [ ] [04 · Atrapando bugs](./01-introduccion-a-typescript/04-atrapando-bugs/notas.md) — 05:11 min
-- [ ] [05 · El compilador de TypeScript](./01-introduccion-a-typescript/05-el-compilador-de-typescript/notas.md) — 12:51 min
-- [ ] [06 · Veamos el TSConfig.json](./01-introduccion-a-typescript/06-veamos-el-tsconfig-json/notas.md) — 09:28 min
+- [x] [01 · Por qué usar TypeScript](./01-introduccion-a-typescript/01-por-que-usar-typescript/notas.md) — 07:25 min
+- [x] [02 · TypeScript vs. JavaScript](./01-introduccion-a-typescript/02-typescript-vs-javascript/notas.md) — 05:45 min
+- [x] [03 · Configurando nuestro proyecto](./01-introduccion-a-typescript/03-configurando-nuestro-proyecto/notas.md) — 05:51 min
+- [x] [04 · Atrapando bugs](./01-introduccion-a-typescript/04-atrapando-bugs/notas.md) — 05:11 min
+- [x] [05 · El compilador de TypeScript](./01-introduccion-a-typescript/05-el-compilador-de-typescript/notas.md) — 12:51 min
+- [x] [06 · Veamos el TSConfig.json](./01-introduccion-a-typescript/06-veamos-el-tsconfig-json/notas.md) — 09:28 min
 
 ### 02 · Tipos de datos primitivos
 
